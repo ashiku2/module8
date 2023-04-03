@@ -1,0 +1,9 @@
+In order to create the blog website I face some problems like 
+design the whole. In this case I use canva to get a good knowledge.
+Then I have to work with the images that I have to choose for my 
+website.
+
+Another challenge is to make the website responsive. In this case
+I have to use media Queries. 
+
+So, that's all I have to deal with in order to make this website look a live.
